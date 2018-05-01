@@ -1,0 +1,58 @@
+item.vulcanite:vulcanite.name=Vulcanite
+item.vulcanite:vulcanite_pickaxe.name=Pico de Vulcanite
+item.vulcanite:vulcanite_axe.name=Hacha de Vulcanite
+item.vulcanite:vulcanite_shovel.name=Pala de Vulcanite
+item.vulcanite:vulcanite_hoe.name=Azada de Vulcanite
+item.vulcanite:vulcanite_sword.name=Espada de Vulcanite
+
+item.vulcanite:flint_and_vulcanite.name=Pedernal y Vulcanite
+
+item.vulcanite:vulcanite_helmet.name=Yelmo de Vulcanite
+item.vulcanite:vulcanite_chestplate.name=Peto de Vulcanite
+item.vulcanite:vulcanite_leggings.name=Grebas de Vulcanite
+item.vulcanite:vulcanite_boots.name=Botas de Vulcanite
+
+tile.vulcanite:vulcanite_block.name=Bloque de Vulcanite
+tile.vulcanite:vulcanite_ore.name=Mineral de Vulcanite
+
+tooltip.general.shift_for_more=§7Preciona SHIFT para mas información
+
+tooltip.weapon.base_info.more_damage=§6Inflige mas daño a mobs inmunes al fuego. Aspecto de fuego incrementa el daño extra
+tooltip.weapon.adv_info.more_damage=§6Inflige §c%f%%§6 mas daño a mobs inmunes al fuego, Incrementa un §c%f%%§6 por cada nivel de Aspecto de fuego
+
+tooltip.tool.base_info.more_efficient=§6En el nether esta herramienta es mas eficiente
+tooltip.tool.adv_info.more_efficient=§6En el nether esta herramienta mina bloques §c%f%%§6 más rapido!
+
+tooltip.armor.base_info.damage_reduction=§6Reduce el daño de fuentes calientes
+tooltip.armor.adv_info.damage_reduction=§6Reduccion de daño con armadura completa: §c%f%%§6. Una pieza de armadura reduce el daño basado en cuantos materiales se usaron para crearla.
+
+tooltip.flint_and_vulcanite.base_info.set_on_fire=§6Click-Derecho en un mob para quemarlo
+tooltip.flint_and_vulcanite.adv_info.set_on_fire=§6Click-Derecho en un mob para quemarlo por §c%d§6 segundos
+tooltip.flint_and_vulcanite.adv_info.damage_on_use=§6Cuando se usa en un mob Pedernal y Vulcanite se daña un §c%d
+
+tooltip.vulcanite_block.base_info.set_on_fire=§6Quema a los mobs que se paran en el
+tooltip.vulcanite_block.adv_info.set_on_fire=§6Los mobs que se paren en el se quemaran por §c%d§6 segundos
+
+advancements.vulcanite.root.title=Vulcanite Mod
+advancements.vulcanite.root.description=El inicio del anti-calor
+
+advancements.vulcanite.ore.title=Muy caliente
+advancements.vulcanite.ore.description=Obten Mineral de Vulcanite. Se encuentra bajo el nivel de la lava
+
+advancements.vulcanite.vulcanite.title=Menos caliente
+advancements.vulcanite.vulcanite.description=Funde Mineral de Vulcanite para obtener una gema de Vulcanite
+
+advancements.vulcanite.sword.title=Los inifugos deberian huir
+advancements.vulcanite.sword.description=Obten una espada de Vulcanite
+
+advancements.vulcanite.tools.title=Gotta go fast in the nether
+advancements.vulcanite.tools.description=Obten todas las herramientas de Vulcanite
+
+advancements.vulcanite.flint.title=Quemando mobs
+advancements.vulcanite.flint.description=Obtain a Flint and Vulcanite
+
+advancements.vulcanite.armor.title=Anti-Calor
+advancements.vulcanite.armor.description=Obten una armadura completa de Vulcanite
+
+advancements.vulcanite.block.title=Cooked farm
+advancements.vulcanite.block.description=Obten un bloque de Vulcanite
